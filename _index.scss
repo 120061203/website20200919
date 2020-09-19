@@ -20,3 +20,12 @@
 .box3 {
     background-color: black;
 }
+
+.bigBox {
+    .littleBox {
+        background-color: #acc;
+    }
+    p {
+        color: #aaa
+    }
+}
